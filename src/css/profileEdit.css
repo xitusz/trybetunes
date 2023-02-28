@@ -1,0 +1,12 @@
+.page-profile-edit {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+
+h1 {
+  margin: 10px 0;
+  text-align: center;
+}

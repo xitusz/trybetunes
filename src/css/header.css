@@ -1,0 +1,18 @@
+.header {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 40px;
+}
+
+.links-header {
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.user {
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: underline;
+}

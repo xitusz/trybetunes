@@ -11,7 +11,6 @@
 - [Clonando Repositório](#clonando-repositório)
 - [Instalando Dependências](#instalando-dependências)
 - [Executando Aplicação](#executando-aplicação)
-- [Executando Testes](#executando-testes)
 
 ---
 
